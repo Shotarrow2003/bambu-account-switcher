@@ -2,6 +2,7 @@
 
 Bambu Studio を **複数アカウントでワンクリック切り替え**できるようにするセットアップ手順です。
 アカウントは2個以上でも自由に追加できます。ただし同時に起動し画面を見ることはできません。
+English: https://github.com/Shotarrow2003/bambu-account-switcher/blob/main/README_EN.md
 
 https://github.com/user-attachments/assets/8edc1c1a-a9e7-4f41-a9f0-e90715c0daf4
 
